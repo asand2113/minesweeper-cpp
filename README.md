@@ -1,6 +1,6 @@
 # minesweeper-cpp
 ## Overview
-A simplistic, terminal-based Minesweeper game made in C++. Originally, this program was designed for a university course for educational purposes. Its overall simplistic nature and abundant code comments make it a good example for C++ learners to look over. 
+A simplistic, terminal-based game based on MineSweeper made in C++. Originally, this program was designed for a university course for educational purposes. Its overall simplistic nature and abundant code comments make it a good example for C++ learners to look over. 
 
 Make is used to build the program.
 
