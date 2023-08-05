@@ -14,9 +14,9 @@ Both a mouse and keyboard are required to play this version. Game controls are b
 ```
 ## Files
 ```
-- Makefile - Used by Make to build/remove the program
-- board.cpp - Implements functions pertaining to game board functions
-- board.h - Defines the functions used in board.cpp and manages the headers the game board depends on
-- main.cpp - The primary game logic
-- tile.h - Defines the tile Class used in the game
+- Makefile : Used by Make to build/remove the program
+- board.cpp : Implements functions pertaining to game board functions
+- board.h : Defines the functions used in board.cpp and manages the headers the game board depends on
+- main.cpp : The primary game logic
+- tile.h : Defines the tile Class used in the game
 ```
